@@ -1,0 +1,9 @@
+C:\Users\timta\source\repos\Minecraft_Texture_Json\Minecraft_Texture_Json\bin\Release\Minecraft_Texture_Json.exe.config
+C:\Users\timta\source\repos\Minecraft_Texture_Json\Minecraft_Texture_Json\bin\Release\Minecraft_Texture_Json.exe
+C:\Users\timta\source\repos\Minecraft_Texture_Json\Minecraft_Texture_Json\bin\Release\Minecraft_Texture_Json.pdb
+C:\Users\timta\source\repos\Minecraft_Texture_Json\Minecraft_Texture_Json\obj\Release\Minecraft_Texture_Json.Form1.resources
+C:\Users\timta\source\repos\Minecraft_Texture_Json\Minecraft_Texture_Json\obj\Release\Minecraft_Texture_Json.Properties.Resources.resources
+C:\Users\timta\source\repos\Minecraft_Texture_Json\Minecraft_Texture_Json\obj\Release\Minecraft_Texture_Json.csproj.GenerateResource.cache
+C:\Users\timta\source\repos\Minecraft_Texture_Json\Minecraft_Texture_Json\obj\Release\Minecraft_Texture_Json.csproj.CoreCompileInputs.cache
+C:\Users\timta\source\repos\Minecraft_Texture_Json\Minecraft_Texture_Json\obj\Release\Minecraft_Texture_Json.exe
+C:\Users\timta\source\repos\Minecraft_Texture_Json\Minecraft_Texture_Json\obj\Release\Minecraft_Texture_Json.pdb
