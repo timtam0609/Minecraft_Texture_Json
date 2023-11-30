@@ -108,7 +108,7 @@ namespace Minecraft_Texture_Json
             foreach (string value in txtBoxTextureName.Lines)
             {
                 // 文の作成
-                string template = "\t{\"predicate\": {\"custom_model_data\": $1}, \"$2/$1\", \"#\": \"Name\"}";
+                string template = "\t{\"predicate\": {\"custom_model_data\": $1}, \"model\": \"$2/$1\", \"#\": \"Name\"}";
                 template = template.Replace("$1", value);
                 if (txtBoxPath.Text != "")
                 {
